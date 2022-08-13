@@ -28,7 +28,7 @@
 
   --foreground-primary: hsl(218, 23%, 23%);
   --foreground-secondary: hsl(216, 15%, 52%);
-  --foreground-tertiary: hsl(215, 24%, 67%);
+  --foreground-tertiary: hsl(216, 35%, 53%);
 
   --accent: hsl(185, 88%, 41%);
 
@@ -43,12 +43,12 @@
   --background-primary: hsl(218, 23%, 23%);
   --background-secondary: hsl(220, 26%, 14%);
 
-  --action-primary: hsl(216, 15%, 52%);
+  --action-primary: hsl(217, 20%, 42%);
   --action-secondary: hsl(218, 23%, 23%);
 
   --foreground-primary: hsl(210, 38%, 95%);
-  --foreground-secondary: hsl(211, 25%, 84%);
-  --foreground-tertiary: hsl(214, 20%, 69%);
+  --foreground-secondary: hsl(211, 32%, 73%);
+  --foreground-tertiary: hsl(214, 25%, 57%);
 
   --accent: hsl(185, 100%, 42%);
 
@@ -291,7 +291,7 @@ body {
 
 
 .h6 {
-  background-color: rgb(82, 82, 82);
+  background-color: rgb(30, 17, 17);
   text-align: center;
   color: rgb(255, 255, 255);
   /* color: rgb(1, 1, 1); */
