@@ -43,7 +43,7 @@ for (let i = 0; i < themeBtn.length; i++) {
 
 //type2
 const textDisplay = document.getElementById('type2')
-const phrases = ['I am glad you came to visit.']
+const phrases = ["I'm glad you came to visit."]
 let i = 0
 let j = 0 
 let currentPhrase = []
@@ -95,7 +95,7 @@ loop();
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = ["Anvndev", "Web Developer", "Designer"];
+const textArray = ["Anvndev", "Web Developer", "Designer", "Software Engineer"];
 const typingDelay = 200;
 const erasingDelay = 100;
 const newTextDelay = 2000; // Delay between current and next text
